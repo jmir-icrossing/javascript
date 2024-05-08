@@ -3676,6 +3676,8 @@ Other Style Guides
 
 ## jQuery
 
+Don't use jQuery
+
   <a name="jquery--dollar-prefix"></a><a name="25.1"></a>
   - [26.1](#jquery--dollar-prefix) Prefix jQuery object variables with a `$`.
 
